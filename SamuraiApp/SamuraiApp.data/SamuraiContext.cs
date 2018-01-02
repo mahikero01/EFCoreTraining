@@ -18,6 +18,5 @@ namespace SamuraiApp.data
         {
             optionsBuilder.UseSqlServer("Data Source=B04SQLD50\\JHEADEV8R2; Initial Catalog=dbbtCARSAp1; Integrated Security=True");
         }
-
     }
 }
